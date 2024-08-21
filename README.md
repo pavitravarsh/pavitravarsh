@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about Web Development and Flutter deve
 
 ## 🌟 Projects
 - **[ShopEase](https://github.com/yourusername/shopease):** A Flutter-based e-commerce app with a sleek UI/UX design.
-- 
+  
 ## 📫 How to reach me
 - **Email:** pavitra.varsh.19@gmail.com
 - **LinkedIn:** [Pavitra Varshini]([https://www.linkedin.com/in/pavitra-varshini-124099259/])
