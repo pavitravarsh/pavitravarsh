@@ -45,8 +45,6 @@ I love animated movies and often quote scenes from *Soul* and *Inside Out*. 🎬
 
 ## 🧰 Languages and Tools
 
-## 🧰 Languages and Tools
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
@@ -68,9 +66,4 @@ I love animated movies and often quote scenes from *Soul* and *Inside Out*. 🎬
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Espressif_Logo.svg/512px-Espressif_Logo.svg.png" alt="esp32" width="40"/>
 </p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  
 
-</p>
