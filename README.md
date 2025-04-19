@@ -1,6 +1,6 @@
 # Hi there, I'm Pavitra Varshini 👋
 
-I'm a Computer Science student passionate about Web Development and Flutter development. I'm always eager to learn new technologies and work on innovative projects.
+I'm a Computer Science student passionate about Web Development . I'm always eager to learn new technologies and work on innovative projects.
 
 ## 🛠 Skills & Technologies
 - **Languages:** Python, Dart, JavaScript, C, C++
