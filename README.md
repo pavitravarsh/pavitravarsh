@@ -61,9 +61,7 @@ I love animated movies and often quote scenes from *Soul* and *Inside Out*. 🎬
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Espressif_Logo.svg/512px-Espressif_Logo.svg.png" alt="esp32" width="40"/>
 </p>
 
 
